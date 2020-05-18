@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAIA,AAAA,IAAI,CAAC;EACD,IAAI,EAJQ,SAAS,EAAE,UAAU;EAKjC,gBAAgB,EANH,OAAO;CAOvB;;AAED,AAAA,GAAG,CAAC;EACA,SAAS,EAAE,IAAI;CAIlB;;AALD,AAEI,GAFD,CAEC,CAAC,CAAC;EACE,KAAK,EAAE,OAAe;CACzB",
+    "sources": [
+        "newstyles.scss"
+    ],
+    "names": [],
+    "file": "newstyles.css"
+}

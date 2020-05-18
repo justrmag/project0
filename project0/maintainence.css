@@ -1,0 +1,12 @@
+.error {
+  font-family: sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 20px;
+  border: 2px solid black;
+}
+
+.error {
+  background-color: red;
+}
+/*# sourceMappingURL=maintainence.css.map */
